@@ -1,4 +1,4 @@
-# Yazar
+# PineCone
 
 It aims to be an advanced and modern text editor which supports both LTR and RTL languages well. It's design goals:
 - Free and opensource
