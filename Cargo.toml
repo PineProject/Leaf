@@ -1,0 +1,23 @@
+[package]
+name = "pine-cone"
+version = "0.1.0"
+authors = ["Pine Developers <pine@barzin.io>", "Other individuals go here!"]
+edition = "2021"
+license = "Apache-2.0"
+homepage = "https://pineproject.github.io/cone"
+repository = "https://github.com/pineproject/pinecone"
+documentation = "https://github.com/pineproject/pinecone/docs"
+readme = "README.md"
+description = """
+
+"""
+
+[dependencies]
+bitflags = "2.1.0"
+clap = "4.2.1"
+
+[lib]
+
+[[bin]]
+name = "bitflag-test"
+path = "tests/"
