@@ -16,8 +16,6 @@ description = """
 bitflags = "2.1.0"
 clap = "4.2.1"
 
-[lib]
-
 [[bin]]
 name = "bitflag-test"
-path = "tests/"
+path = "tests/bitflag.rs"
