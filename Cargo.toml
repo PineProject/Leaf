@@ -1,12 +1,12 @@
 [package]
-name = "pine-cone"
+name = "lerd"
 version = "0.1.0"
 authors = ["Pine Developers <pine@barzin.io>", "Other individuals go here!"]
 edition = "2021"
 license = "Apache-2.0"
-homepage = "https://pineproject.github.io/cone"
-repository = "https://github.com/pineproject/pinecone"
-documentation = "https://github.com/pineproject/pinecone/docs"
+homepage = "https://pineproject.github.io/lerd"
+repository = "https://github.com/pineproject/lerd"
+documentation = "https://github.com/pineproject/lerd/docs"
 readme = "README.md"
 description = """
 
